@@ -73,7 +73,7 @@ url-shortener/
 ## ▶️ Running the Backend
 
 ```bash
-cd backend
+cd url-shortener-sb
 mvn clean install
 mvn spring-boot:run
 ```
@@ -88,7 +88,7 @@ http://localhost:8080
 ## ▶️ Running the Frontend
 
 ```bash
-cd frontend
+cd url-shortener-frontend
 npm install
 npm run dev
 ```
